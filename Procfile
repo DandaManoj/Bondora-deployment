@@ -1,0 +1,1 @@
+web gunicorn creditrisk.wsgi:application --log-file -
